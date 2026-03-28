@@ -17,7 +17,10 @@ Optical Fibers are available in different variety of materials. These materials 
 
 Losses are introduced in fiber due to various reasons. As light propagates from one end of Fiber to another end, part of it is absorbed in the material exhibiting absorption loss. Also part of the light is reflected back or in some other directions from the impurity particles present in the material contributing to the loss of the signal at the other end of the Fiber. In general terms it is know as propagation loss. Plastic Fibers have higher loss of the order of 180 dB/Km.
 Whenever the condition for angel of incidence of the incident lights is violated the losses are introduced due to refraction of light. This occurs when fiber is subjected to bending. Lower the radius of curvature more is the loss. Other losses are due to the coupling of Fiber at LED and photo detector ends.
- 
+
+ ## Block Diagram
+<img width="842" height="443" alt="image" src="https://github.com/user-attachments/assets/b77bc4e0-de26-45f1-8f69-10623fc374e7" />
+
 
 **Procedure:**  
 	Connect the power supply with proper polarity to the kit link-B and switch it on.
